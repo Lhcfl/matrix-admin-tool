@@ -2,6 +2,11 @@
 
 Matrix (Synapse) management tool
 
+## Run
+
+- Install Crystal
+- `shards run` (or `shards build --release --static` then `bin/matrix-admin`)
+
 ## Usage
 
 ```
