@@ -1,0 +1,13 @@
+name: matrix-admin
+version: 0.1.0
+
+authors:
+  - Lhcfl <lhcfl@outlook.com>
+
+targets:
+  matrix-admin:
+    main: src/main.cr
+
+crystal: '>= 1.14.0'
+
+license: MIT
